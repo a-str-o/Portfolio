@@ -1,3 +1,16 @@
+@font-face {
+  font-family:"GOW";
+  src: url("./ttf/god-of-war.ttf") format("truetype");
+}
+
+.home-hero {
+  font-family: GOW;
+}
+
+.home-hero {
+  width: 100%;
+}
+
 .App {
   text-align: center;
 }
